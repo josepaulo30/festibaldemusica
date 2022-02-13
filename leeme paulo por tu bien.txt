@@ -1,0 +1,18 @@
+para agregar un package.jason hacemos los sgt
+en visual code ponemos, terminal, new terminal,npm init
+aqui le demas enter a todo execpto a 
+desription: le ponemos el nombre  del proyecto
+keyword:sass,gulp(estas son palabras claves que quieras tu poner)
+author:tu nombre
+
+desouesto de todo ponemos yes
+
+<<<<<<para instlar un sass>>>>>>>>>>>>>>>>
+
+dentro de package.jason ponemos
+npm install sass --save-dev
+
+---esto nos crea un dos carpetas 
+package-lock-json: no lo tengo que tocas
+node_modules:es donde se van a guardar los modulos y la puedes eliminar por todos los 
+mudulos se guardan en package.json y las puedes recuperar poniendo npm i
